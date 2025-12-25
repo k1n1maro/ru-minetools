@@ -1,0 +1,43 @@
+{
+  "minecraft_terms": {
+    "block": "блок",
+    "item": "предмет", 
+    "recipe": "рецепт",
+    "crafting": "крафт",
+    "smelting": "плавка",
+    "enchantment": "зачарование",
+    "potion": "зелье",
+    "dimension": "измерение",
+    "biome": "биом",
+    "ore": "руда",
+    "ingot": "слиток",
+    "gem": "самоцвет",
+    "tool": "инструмент",
+    "armor": "броня",
+    "weapon": "оружие",
+    "food": "еда",
+    "seed": "семена",
+    "sapling": "саженец",
+    "mob": "моб",
+    "entity": "сущность",
+    "inventory": "инвентарь",
+    "chest": "сундук",
+    "furnace": "печь",
+    "workbench": "верстак",
+    "anvil": "наковальня",
+    "brewing stand": "варочная стойка",
+    "enchanting table": "стол зачарований"
+  },
+  "mod_specific": {
+    "thermal": "термальный",
+    "industrial": "индустриальный", 
+    "mechanical": "механический",
+    "electrical": "электрический",
+    "magical": "магический",
+    "mystical": "мистический",
+    "advanced": "продвинутый",
+    "basic": "базовый",
+    "elite": "элитный",
+    "ultimate": "ультимативный"
+  }
+}
