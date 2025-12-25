@@ -5,9 +5,6 @@
 ![Version](https://img.shields.io/github/v/release/k1n1maro/ru-minetools?style=for-the-badge&logo=github&color=ff6b35&labelColor=2d3748)
 ![Downloads](https://img.shields.io/github/downloads/k1n1maro/ru-minetools/total?style=for-the-badge&logo=download&color=38a169&labelColor=2d3748)
 ![Release Date](https://img.shields.io/github/release-date/k1n1maro/ru-minetools?style=for-the-badge&logo=calendar&color=805ad5&labelColor=2d3748)
-![License](https://img.shields.io/github/license/k1n1maro/ru-minetools?style=for-the-badge&color=f56565&labelColor=2d3748)
-![Platform](https://img.shields.io/badge/Platform-Windows_10/11-0078d4?style=for-the-badge&logo=windows&labelColor=2d3748)
-![Language](https://img.shields.io/badge/Language-Python_3.8+-3776ab?style=for-the-badge&logo=python&labelColor=2d3748)       
 
 **Программа для перевода модов и квестов Minecraft на русский язык**
 
