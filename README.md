@@ -9,8 +9,16 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows_10/11-0078d4?style=for-the-badge&logo=windows&labelColor=2d3748)
 ![Language](https://img.shields.io/badge/Language-Python_3.8+-3776ab?style=for-the-badge&logo=python&labelColor=2d3748)       
 
-**🇷🇺 Программа для перевода модов и квестов Minecraft на русский язык**
+**Программа для перевода модов и квестов Minecraft на русский язык**
 *Переводите любые моды одним кликом. Работает с FTB квестами и JAR модами!*
+
+<div align="center">
+
+## 📥 Скачать программу
+
+[![Download EXE](https://img.shields.io/badge/💾_СКАЧАТЬ_EXE-v1.0.0-success?style=for-the-badge&logo=download)](https://github.com/k1n1maro/ru-minetools/releases/latest/download/RU-MINETOOLS-v1.0.0.exe)
+
+</div>
 
 ![Главный интерфейс](screenshots/1.png)
 
@@ -65,14 +73,6 @@
 </div>
 
 </details>
-
-<div align="center">
-
-## 📥 Скачать программу
-
-[![Download EXE](https://img.shields.io/badge/💾_СКАЧАТЬ_EXE-v1.0.0-success?style=for-the-badge&logo=download)](https://github.com/k1n1maro/ru-minetools/releases/latest/download/RU-MINETOOLS-v1.0.0.exe)
-
-</div>
 
 <div align="center">
 
