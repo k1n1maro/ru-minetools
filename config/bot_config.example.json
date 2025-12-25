@@ -1,0 +1,8 @@
+{
+  "BOT_TOKEN": "YOUR_BOT_TOKEN_HERE",
+  "CHANNEL_ID": "YOUR_CHANNEL_ID_HERE",
+  "API_URL": "https://your-yandex-cloud-api.apigw.yandexcloud.net",
+  "BOT_URL": "https://t.me/your_bot_username",
+  "CHANNEL_URL": "https://t.me/your_channel",
+  "test_date": "test_data_here"
+}

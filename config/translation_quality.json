@@ -1,0 +1,44 @@
+{
+  "quality_settings": {
+    "use_enhanced_translator": true,
+    "use_terminology_dictionary": true,
+    "use_mod_context": true,
+    "batch_size": 20,
+    "enable_smart_filtering": true,
+    "preserve_formatting": true,
+    "cache_translations": true
+  },
+  "filtering_rules": {
+    "min_text_length": 3,
+    "skip_technical_keys": true,
+    "skip_color_codes": true,
+    "skip_variables": true,
+    "skip_already_translated": true
+  },
+  "context_detection": {
+    "thermal": "thermal expansion mod (industrial machinery and energy)",
+    "mekanism": "mekanism mod (advanced technology and chemistry)",
+    "immersive": "immersive engineering mod (realistic industrial machines)",
+    "tinkers": "tinkers construct mod (tool crafting and smeltery)",
+    "botania": "botania mod (magical flowers and mana)",
+    "thaumcraft": "thaumcraft mod (magic research and aspects)",
+    "applied": "applied energistics mod (digital storage and automation)",
+    "industrial": "industrial craft mod (technology and nuclear power)",
+    "buildcraft": "buildcraft mod (pipes and automation)",
+    "forestry": "forestry mod (bees, trees and agriculture)",
+    "railcraft": "railcraft mod (trains, rails and logistics)",
+    "computercraft": "computercraft mod (computers and programming)",
+    "create": "create mod (mechanical contraptions and engineering)",
+    "pneumatic": "pneumaticcraft mod (compressed air and drones)",
+    "blood": "blood magic mod (ritual magic and life essence)",
+    "astral": "astral sorcery mod (star magic and constellations)",
+    "extra": "extra utilities mod (useful blocks and generators)",
+    "ender": "ender io mod (conduits, machines and farming)"
+  },
+  "post_processing": {
+    "fix_quotes": true,
+    "apply_terminology": true,
+    "validate_formatting": true,
+    "check_placeholders": true
+  }
+}

@@ -1,0 +1,102 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific - EXE files and archives
+*.exe
+*.zip
+*.msi
+*.dmg
+
+# Releases (keep in releases/ folder only)
+/ru-minetools*.exe
+/ru-minetools*.zip
+
+# Секретные конфигурационные файлы
+config/bot_config.json
+config/guest_access.json
+
+# Файлы авторизации пользователей (создаются программой)
+telegram_auth.json
+src/telegram_auth.json
+
+# Кэш переводов (создается программой)
+translation_cache.pkl
+translation_cache_optimized.db
+src/translation_cache.pkl
+src/translation_cache_optimized.db
+
+# Временные файлы обновлений
+update_ru_minetools.bat
+*.exe.backup
+*.backup
+test_write_access.tmp
+
+# Логи и отладочная информация
+*.log
+debug_*.txt
+ru_minetools_errors.log
+src/*.log
+
+# Временные файлы разработки и тестирования
+test_*.py
+*_test.py
+*_fix.py
+final_*.py
+temp_*.py
+debug_*.py
+*_backup.py
+*_clean.py
+*_fixed.py
+README_v*.md
+
+# Резервные копии и временные папки
+backup_*/
+temp_*/
+old_*/
+
+# Документация разработчика (не для публичного репозитория)
+DEVELOPER_GUIDE.md
+CRITICAL_FILES.md
