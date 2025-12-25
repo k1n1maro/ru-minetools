@@ -6,12 +6,12 @@
 
 **Привет! Это простая программа для перевода модов Minecraft на русский язык 🇷🇺**
 
-[![Скачиваний](https://img.shields.io/github/downloads/k1n1maro/ru-minetools-test/total?style=for-the-badge&logo=github&logoColor=white&label=СКАЧИВАНИЙ&color=success)](https://github.com/k1n1maro/ru-minetools-test/releases)
-[![Последняя версия](https://img.shields.io/github/v/release/k1n1maro/ru-minetools-test?style=for-the-badge&logo=github&logoColor=white&label=ВЕРСИЯ&color=blue)](https://github.com/k1n1maro/ru-minetools-test/releases/latest)
-[![Лицензия](https://img.shields.io/github/license/k1n1maro/ru-minetools-test?style=for-the-badge&logo=opensourceinitiative&logoColor=white&label=ЛИЦЕНЗИЯ&color=green)](LICENSE)
-[![Звезды](https://img.shields.io/github/stars/k1n1maro/ru-minetools-test?style=for-the-badge&logo=github&logoColor=white&label=ЗВЕЗД&color=yellow)](https://github.com/k1n1maro/ru-minetools-test/stargazers)
+[![Скачиваний](https://img.shields.io/github/downloads/k1n1maro/ru-minetools/total?style=for-the-badge&logo=github&logoColor=white&label=СКАЧИВАНИЙ&color=success)](https://github.com/k1n1maro/ru-minetools/releases)
+[![Последняя версия](https://img.shields.io/github/v/release/k1n1maro/ru-minetools?style=for-the-badge&logo=github&logoColor=white&label=ВЕРСИЯ&color=blue)](https://github.com/k1n1maro/ru-minetools/releases/latest)
+[![Лицензия](https://img.shields.io/github/license/k1n1maro/ru-minetools?style=for-the-badge&logo=opensourceinitiative&logoColor=white&label=ЛИЦЕНЗИЯ&color=green)](LICENSE)
+[![Звезды](https://img.shields.io/github/stars/k1n1maro/ru-minetools?style=for-the-badge&logo=github&logoColor=white&label=ЗВЕЗД&color=yellow)](https://github.com/k1n1maro/ru-minetools/stargazers)
 
-[![Windows](https://img.shields.io/badge/Windows-10%2F11-blue?style=flat-square&logo=windows&logoColor=white)](https://github.com/k1n1maro/ru-minetools-test/releases/latest)
+[![Windows](https://img.shields.io/badge/Windows-10%2F11-blue?style=flat-square&logo=windows&logoColor=white)](https://github.com/k1n1maro/ru-minetools/releases/latest)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![Minecraft](https://img.shields.io/badge/Minecraft-Forge%20%7C%20Fabric-green?style=flat-square&logo=minecraft&logoColor=white)](#)
 [![Telegram](https://img.shields.io/badge/Поддержка-Telegram-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ruquestbook)
@@ -35,7 +35,7 @@
 
 <div align="center">
 
-**🎯 [СКАЧАТЬ RU-MINETOOLS](https://github.com/k1n1maro/ru-minetools-test/releases/latest) 🎯**
+**🎯 [СКАЧАТЬ RU-MINETOOLS](https://github.com/k1n1maro/ru-minetools/releases/latest) 🎯**
 
 *Работает на Windows 10/11. Никаких дополнительных программ устанавливать не нужно.*
 
@@ -63,7 +63,7 @@
 
 Заходите в наш [Telegram канал](https://t.me/ruquestbook) - там всегда помогут! 💬
 
-Или создайте [вопрос на GitHub](https://github.com/k1n1maro/ru-minetools-test/issues) 🐛
+Или создайте [вопрос на GitHub](https://github.com/k1n1maro/ru-minetools/issues) 🐛
 
 **Частые проблемы:**
 - 🚫 **Не запускается** → Попробуйте от имени администратора
@@ -76,8 +76,8 @@
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/k1n1maro/ru-minetools-test.git
-cd ru-minetools-test
+git clone https://github.com/k1n1maro/ru-minetools.git
+cd ru-minetools
 
 # Установить зависимости  
 pip install -r requirements.txt

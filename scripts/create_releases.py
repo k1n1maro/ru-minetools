@@ -92,7 +92,7 @@ def delete_existing_releases():
     print("=" * 40)
     
     # Проверяем существующие релизы
-    result = subprocess.run("gh release list --repo k1n1maro/ru-minetools-test", 
+    result = subprocess.run("gh release list --repo k1n1maro/ru-minetools", 
                           shell=True, capture_output=True, text=True, encoding='cp1251')
     
     if result.returncode != 0:
@@ -104,11 +104,11 @@ def delete_existing_releases():
         return True
     
     # Удаляем v1.0.0
-    run_command("gh release delete v1.0.0 --yes --repo k1n1maro/ru-minetools-test", 
+    run_command("gh release delete v1.0.0 --yes --repo k1n1maro/ru-minetools", 
                 "Удаление релиза v1.0.0")
     
     # Удаляем v1.1.0
-    run_command("gh release delete v1.1.0 --yes --repo k1n1maro/ru-minetools-test", 
+    run_command("gh release delete v1.1.0 --yes --repo k1n1maro/ru-minetools", 
                 "Удаление релиза v1.1.0")
     
     print("✅ Старые релизы удалены")
@@ -122,7 +122,7 @@ def create_github_release(version, title, notes):
     exe_file = f"releases/RU-MINETOOLS-v{version}.exe"
     zip_file = f"releases/RU-MINETOOLS-v{version}.zip"
     
-    command = f'gh release create v{version} "{exe_file}" "{zip_file}" --title "{title}" --notes "{notes}" --repo k1n1maro/ru-minetools-test'
+    command = f'gh release create v{version} "{exe_file}" "{zip_file}" --title "{title}" --notes "{notes}" --repo k1n1maro/ru-minetools'
     
     if run_command(command, f"Создание релиза v{version}"):
         print(f"✅ Релиз v{version} создан успешно")
@@ -136,7 +136,7 @@ def main():
     print("🚀 АВТОМАТИЧЕСКОЕ СОЗДАНИЕ РЕЛИЗОВ RU-MINETOOLS")
     print("=" * 60)
     print("📦 Создаем версии: 1.0.0 и 1.1.0")
-    print("🌐 Репозиторий: k1n1maro/ru-minetools-test")
+    print("🌐 Репозиторий: k1n1maro/ru-minetools")
     print("=" * 60)
     
     # Проверяем что мы в корне проекта
@@ -232,8 +232,8 @@ def main():
         print("  🔹 v1.1.0 - Исправленная версия")
         print()
         print("🌐 Ссылки:")
-        print("  📄 v1.0.0: https://github.com/k1n1maro/ru-minetools-test/releases/tag/v1.0.0")
-        print("  📄 v1.1.0: https://github.com/k1n1maro/ru-minetools-test/releases/tag/v1.1.0")
+        print("  📄 v1.0.0: https://github.com/k1n1maro/ru-minetools/releases/tag/v1.0.0")
+        print("  📄 v1.1.0: https://github.com/k1n1maro/ru-minetools/releases/tag/v1.1.0")
         print()
         print("🧪 Тестирование:")
         print("  1. Скачайте v1.0.0")

@@ -5,7 +5,7 @@
 """
 
 # Основные настройки репозитория
-GITHUB_REPO = "k1n1maro/ru-minetools-test"  # Тестовый репозиторий
+GITHUB_REPO = "k1n1maro/ru-minetools"  # Основной репозиторий
 GITHUB_API_URL = f"https://api.github.com/repos/{GITHUB_REPO}/releases/latest"
 
 # Текущая версия приложения
