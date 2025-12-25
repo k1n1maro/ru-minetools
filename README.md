@@ -29,7 +29,7 @@
 
 ## 📥 Скачать программу
 
-[![Download EXE](https://img.shields.io/badge/💾_СКАЧАТЬ_EXE-v1.0.0-success?style=for-the-badge&logo=download)](https://github.com/k1n1maro/ru-minetools/releases/latest/download/RU-MINETOOLS-v1.0.0.exe)
+[![Download EXE](https://img.shields.io/badge/💾_СКАЧАТЬ_EXE-v1.0.0-success?style=for-the-badge&logo=download)](https://github.com/k1n1maro/ru-minetools/releases/latest/download/ru-minetools-v1.0.0.exe)
 
 </div>
 

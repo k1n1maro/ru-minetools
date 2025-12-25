@@ -9,7 +9,7 @@ GITHUB_REPO = "k1n1maro/ru-minetools"  # Основной репозиторий
 GITHUB_API_URL = f"https://api.github.com/repos/{GITHUB_REPO}/releases/latest"
 
 # Текущая версия приложения
-CURRENT_VERSION = "1.1.0"
+CURRENT_VERSION = "1.0.0"
 
 # Интервал автоматической проверки обновлений (в миллисекундах)
 UPDATE_CHECK_INTERVAL = 24 * 60 * 60 * 1000  # 24 часа
