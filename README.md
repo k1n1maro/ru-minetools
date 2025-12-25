@@ -1,6 +1,6 @@
 <div align="center">
 
-# RU-MINETOOLS
+# RU-MINETOOLS - Перевод квестов и модов на русский язык!
 
 ![Version](https://img.shields.io/github/v/release/k1n1maro/ru-minetools?style=for-the-badge&logo=github&color=ff6b35&labelColor=2d3748)
 ![Downloads](https://img.shields.io/github/downloads/k1n1maro/ru-minetools/total?style=for-the-badge&logo=download&color=38a169&labelColor=2d3748)
@@ -39,16 +39,12 @@
 
 <div align="center">
 
-### Главное окно программы
 ![Главное окно](screenshots/1.png)
 
-### Переводчик квестов в действии
 ![Квесты](screenshots/2.png)
 
-### Переводчик модов
 ![Моды](screenshots/3.png)
 
-### Процесс перевода
 ![Процесс](screenshots/4.png)
 
 </div>
